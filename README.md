@@ -9,6 +9,8 @@ The system can be extended for interactive use, allowing operators to upload wee
 
 Confusion Matrix: Evaluates model prediction accuracy
 
+<img width="820" height="553" alt="Image" src="https://github.com/user-attachments/assets/c7fb0dc4-34ba-46ae-ba9f-ef29d8781ab8" />
+
 
 Feature Importance: Highlights key variables influencing turbine failures
 
