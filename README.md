@@ -7,15 +7,18 @@ The system can be extended for interactive use, allowing operators to upload wee
 
                                      Visual Insights
 
-Confusion Matrix: Evaluates model prediction accuracy
+                   Confusion Matrix: Evaluates model prediction accuracy
 
 <img width="820" height="553" alt="Image" src="https://github.com/user-attachments/assets/c7fb0dc4-34ba-46ae-ba9f-ef29d8781ab8" />
 
+                 Feature Importance: Highlights key variables influencing turbine failures
 
-Feature Importance: Highlights key variables influencing turbine failures
+<img width="1246" height="683" alt="Image" src="https://github.com/user-attachments/assets/1d3db7b5-1d50-4043-aa4d-051ac5a2a6c7" />
 
 
-Failure Dashboard: Provides an interactive overview of turbine health and risk predictions
+                 Failure Dashboard: Provides an interactive overview of turbine health and risk predictions
+
+                 
 
 
                                     Future Enhancements
